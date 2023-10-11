@@ -8,8 +8,8 @@ yunpian-php-sdk
 
 ```json
 "require": {
-        "yunpian/yunpian-php-sdk" : "~1.0"
-    }
+  "chinayin/yunpian-php-sdk" : "^1.1"
+}
 ```
 **注**: master是最新稳定版。我们会更新到[Packagist](https://packagist.org/explore/)
 
